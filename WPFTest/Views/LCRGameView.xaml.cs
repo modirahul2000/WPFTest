@@ -16,9 +16,6 @@ using WPFTest.ViewModels;
 
 namespace WPFTest.Views
 {
-    /// <summary>
-    /// Interaction logic for Page1.xaml
-    /// </summary>
     public partial class LCRGameView : Page
     {
         public LCRGameView(LCRGameViewModel ViewModel)
